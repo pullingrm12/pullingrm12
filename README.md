@@ -1,5 +1,4 @@
 # 💫 About Me:
-I'm a third year computer science student attending California Polytechnic State University, San Luis Obispo. <br>I am pursuing a minor in statistics and am interested in software engineering, artificial intelligence, and data science. <br>I'm currently working on a personal website. 
 
 
 ## 🌐 Socials:
